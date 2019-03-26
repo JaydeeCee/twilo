@@ -10,8 +10,8 @@ import com.twilio.type.PhoneNumber;
  */
 public class App 
 {
-	public static final String ACCOUNT_SID = "ACfce40679d14cdd62e9aa39a5ca849a79";
-	public static final String AUTH_TOKEN = "a2e658f376c8598ddd606fcef8f2fbf5";
+	public static final String ACCOUNT_SID = "account_sid";
+	public static final String AUTH_TOKEN = "auth_token";
 	
     public static void main( String[] args )
     {
